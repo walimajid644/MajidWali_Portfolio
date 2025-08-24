@@ -1,0 +1,12 @@
+/* Load Poppins normal weight (400) */
+@import "@fontsource/poppins";
+
+/* Load Poppins medium weight (500) */
+@import "@fontsource/poppins/500.css";
+
+/* Load Poppins semi-bold weight (600) */
+@import "@fontsource/poppins/600.css";
+
+/* Load Poppins bold weight (700) */
+@import "@fontsource/poppins/700.css";
+
